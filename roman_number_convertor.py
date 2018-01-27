@@ -1,9 +1,9 @@
 
-#this app convert interger to roman numbers
+#this app convert interger to roman nbers
 
 from collections import OrderedDict
 
-def conv_to_roman(num):
+def conv_to_roman(n):
 
     roman = OrderedDict()
     roman[1000] = "M"
@@ -20,17 +20,17 @@ def conv_to_roman(num):
     roman[4] = "IV"
     roman[1] = "I"
 
-    def roman_n(num):
+    def roman_n(n):
         for r in roman.keys():
-            x, y = divmod(num, r)
+            x, y = divmod(n, r)
             yield roman[r] * x
-            num -= (r * x)
-            if num > 0:
-                roman_n(num)
+            n -= (r * x)
+            if n > 0:
+                roman_n(n)
             else:
                 break
 
-    return "".join([a for a in roman_n(num)])
+    return "".join([a for a in roman_n(n)])
 
 
 #Test
