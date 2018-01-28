@@ -3,6 +3,7 @@
 
 from collections import OrderedDict
 
+
 def conv_to_roman(n):
 
     roman = OrderedDict()
@@ -33,5 +34,6 @@ def conv_to_roman(n):
     return "".join([a for a in roman_n(n)])
 
 
-#Test
-print (write_roman(9))
+
+n = input('Enter the number you want to convert in roman: ')
+print (conv_to_roman(int(n)))
