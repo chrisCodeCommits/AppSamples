@@ -1,5 +1,5 @@
 
-#this app convert interger to roman nbers
+#this app convert interger to roman numbers
 
 from collections import OrderedDict
 
