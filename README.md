@@ -28,7 +28,7 @@ This algorithm calculates the number of pizza needed to feed a
 group of people with deferent preferences.
 
 > **How to use it**:\
-> run it first and then type in data it will ask you to enter on 
+> run it first and then type in data it will ask you to enter each 
 step while being wihin the bash.
 
 [CLICK HERE TO TRY IT](https://repl.it/@ChrisPy1/PizzaCalculator)
