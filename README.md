@@ -18,7 +18,7 @@ or proofing an html page before officially publishing a site.
 to add the quotation marks when you're done as the address need 
 to be a string 
 
-[CLICK HERE TO TRY IT](https://repl.it/@ChrisPy1/LINKS-CHECKER)
+[CLICK HERE TO TRY IT](https://repl.it/@ChrisPy1/LinksChecker)
 
 
 
