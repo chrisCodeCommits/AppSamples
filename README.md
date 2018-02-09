@@ -15,7 +15,7 @@ or proofing an html page before officially publishing a site.
 
 > **How to use it**:\
 > Replace the sitmap string with a real website and remember 
-to add the quotation marks when you're done as the addres need 
+to add the quotation marks when you're done as the address need 
 to be a string 
 
 [CLICK HERE TO TRY IT](https://repl.it/@ChrisPy1/LINKS-CHECKER)
