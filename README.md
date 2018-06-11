@@ -51,3 +51,17 @@ and press return (or "Enter" on a windows keyboard).
 
 [CLICK HERE TO TRY IT](https://repl.it/@ChrisPy1/RomanNumberConvertor)
 
+
+
+
+## Triangle Drawing 
+This small program draw a triangle based on the number of rows 
+you want it to print.
+The bigger is that number, the bigger the triangle drawing will be
+
+> **How to use it**:\
+> Run it first then type in any number of rows you want to print
+and then press return (or "Enter" on a windows keyboard).
+
+[CLICK HERE TO TRY IT](https://repl.it/@ChrisPy1/TriangleDraw)
+
