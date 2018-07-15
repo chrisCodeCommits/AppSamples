@@ -2,7 +2,7 @@
 
 these algorithms calcutate the number of pizza needed 
 to feed a group of people
-
+#
 ''' 
 
 
